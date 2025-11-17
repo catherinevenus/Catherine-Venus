@@ -14,5 +14,8 @@
 - Excel Model: Portfolio Risk & Return  
 
 ### 🌼 Connect with Me  
-LinkedIn: (your link)  
+LinkedIn: https://www.linkedin.com/in/catherine-venus-400b6033b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BQQG5anMGRV6m9Jl0ZEMqeA%3D%3D
 Portfolio: (Notion link soon)  
+
+### 🔧 Tech Stack
+Python • SQL • Excel • Power BI • Pandas • NumPy • Matplotlib • Jupyter Notebook
